@@ -1,11 +1,6 @@
-<div style="text-align: center;">
-
-## ID: 22059  
-## Names: Rusimbi Patrick  
-
-</div>
- 
- 
+### ID: 22059  
+### Names: Rusimbi Patrick  
+--- 
  
 **Differentiation Between a Program and a Process:**
 
